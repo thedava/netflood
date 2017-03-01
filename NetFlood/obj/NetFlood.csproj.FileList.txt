@@ -1,0 +1,5 @@
+obj\Debug\NetFlood.exe
+obj\Debug\NetFlood.pdb
+bin\Debug\NetFlood.exe
+bin\Debug\NetFlood.pdb
+obj\Debug\ResolveAssemblyReference.cache
